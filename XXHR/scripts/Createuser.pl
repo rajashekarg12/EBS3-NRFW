@@ -10,6 +10,6 @@ $dbh->do("create user Essbase identified by mypassword");
 # Disconnect from the Essbase Server. 
 $dbh->disconnect();
 544
-55555
+5555555
 65
 lkk
